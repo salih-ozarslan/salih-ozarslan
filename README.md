@@ -1,16 +1,35 @@
-## Hi there 👋
+# Merhaba, ben Salih Özarslan! 👋
 
-<!--
-**salih-ozarslan/salih-ozarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım dünyasına tutkuyla bağlı bir Yazılım Geliştiricisi Heveslisi olarak buradayım! Yeni teknolojileri öğrenmeye, problemlere yaratıcı çözümler bulmaya ve açık kaynak topluluğuna katkıda bulunmaya hevesliyim.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **Şu An Nelerle Uğraşıyorum?**
+
+* Şu anda MVC ASP.NET Core 8.0 Wen Projeleri üzerinde derinleşiyorum.
+
+---
+
+
+### 💬 **Benimle İletişime Geç**
+
+* LinkedIn: https://tr.linkedin.com/in/salihozarslan?trk=people-guest_people_search-card
+* E-posta: ozarslansalih@icloud.com
+
+---
+
+### 🛠️ **Kullandığım Teknolojiler ve Araçlar**
+
+| Kategori         | Teknolojiler/Araçlar                                        |
+| :--------------- | :---------------------------------------------------------- |
+| **Diller** | [Python, JavaScript, C#]                                          |
+| **Web Geliştirme** | [ASP.NET Core]                                            |
+| **Veritabanları** | [MSSQL]                                                    |
+| **DevOps/Altyapı**| [örn: Git, GitHub]                                         |
+
+---
+
+### 📊 **GitHub İstatistiklerim**
+
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=[salih-ozarslan]&show_icons=true&theme=nord&hide_border=true)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=[salih-ozarslan]&layout=compact&theme=nord&hide_border=true)
