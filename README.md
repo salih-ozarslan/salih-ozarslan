@@ -31,5 +31,5 @@ Yazılım dünyasına tutkuyla bağlı bir Yazılım Geliştiricisi Heveslisi ol
 
 ### 📊 **GitHub İstatistiklerim**
 
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=[salih-ozarslan]&show_icons=true&theme=nord&hide_border=true)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=[salih-ozarslan]&layout=compact&theme=nord&hide_border=true)
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=salih-ozarslan&show_icons=true&theme=nord&hide_border=true)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=salih-ozarslan&layout=compact&theme=nord&hide_border=true)
